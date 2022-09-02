@@ -5,3 +5,6 @@
 1. index.html
 2. style.css
 3. script.js
+
+Access site:
+https://hrushikeshkaranth.github.io/Simple_Interest_Calculator/
