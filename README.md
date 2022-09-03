@@ -7,4 +7,4 @@
 3. script.js
 
 Access site:
-https://hrushikeshkaranth.github.io/Simple_Interest_Calculator/
+[Simple Interest Calculator](https://hrushikeshkaranth.github.io/Simple_Interest_Calculator/)
